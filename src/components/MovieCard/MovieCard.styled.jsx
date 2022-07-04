@@ -6,9 +6,9 @@ export const MovieItem = styled.li`
   color: #ffffff;
   background: rgb(131,58,180);
   background: linear-gradient(90deg, rgba(131,58,180,1) 0%, rgba(253,29,29,1) 50%, rgba(252,176,69,1) 100%);
-    0px 1px 1px 0px rgba(237, 70, 47, 0.14),
-    0px 2px 1px -1px rgba(237, 70, 47, 0.12);
-border-radius: 30px 30px 30px 30px / 25px 25px 25px 25px;
+  0px 1px 1px 0px rgba(237, 70, 47, 0.14),
+  0px 2px 1px -1px rgba(237, 70, 47, 0.12);
+  border-radius: 30px 30px 30px 30px / 25px 25px 25px 25px;
   transition: transform 250ms cubic-bezier(0.4, 0, 0.2, 1);
 
   :hover {

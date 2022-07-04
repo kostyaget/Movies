@@ -17,6 +17,7 @@ export const NavButton = styled(NavLink)`
   color: #ffffff;
   background-color: #dd1818;
   transition: all 250ms cubic-bezier(0.4, 0, 0.2, 1);
+  border-radius: 30px 30px 30px 30px;
 
   &:hover {
     box-shadow: 0px 0 11px 1px rgb(0 0 0 / 90%);
