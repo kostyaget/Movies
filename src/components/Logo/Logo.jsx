@@ -4,8 +4,8 @@ import { AppName, AppNameExpansion } from './Logo.styled';
 export default function Logo() {
   return (
     <AppName>
-      <NavLink to="/">Filmer</NavLink>
-      <AppNameExpansion>.app</AppNameExpansion>
+      <NavLink to="/">Filmoteka</NavLink>
+      <AppNameExpansion></AppNameExpansion>
     </AppName>
   );
 }
